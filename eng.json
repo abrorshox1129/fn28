@@ -1,0 +1,19 @@
+{
+  "messages": {
+    "start":"Hello",
+    "end": "Thank you for your purchase",
+    "m": "Press ENTER to open the menu"
+  },
+"questions":{
+  "start": "Would you like to place an order?",
+  "end": "✅✅Complete the order✅✅"
+},
+
+"answers": {
+  "start": "Of course",
+  "end": "Of course"
+
+
+}
+
+}
